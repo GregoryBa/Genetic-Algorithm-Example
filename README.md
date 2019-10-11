@@ -1,4 +1,4 @@
-# Genetic Alrorithm
+# Genetic Algorithm
 This code includes solution to problems listed below:
 
 ## Problem 1
